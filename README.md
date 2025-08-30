@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MD Iftekhar Hossain</h1>
-- 🌱 I’m currently **graduate Student in Computer Science**
+- 🌱 I’m currently **Graduate Student in Computer Science**
 
 - 🤝 I’m **always eager to learn and share my learning**
 
