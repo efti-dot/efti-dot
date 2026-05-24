@@ -19,10 +19,6 @@
 | 🎓 | BSc in Computer Science & Engineering — Ahsanullah University of Science and Technology (AUST) |
 | 💬 | Ask me about **LLMs · RAG Systems · LangChain · Computer Vision · Python** |
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=efti-dot&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-</p>
-
 ---
 
 ### 🚀 &nbsp;What I Work With
