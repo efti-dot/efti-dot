@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:2d333b&height=200&section=header&text=MD%20Iftekhar%20Hossain&fontSize=48&fontColor=58a6ff&animation=fadeIn&fontAlignY=36&desc=AI%2FML%20Engineer%20%E2%80%A2%20LLM%20%26%20RAG%20Systems%20%E2%80%A2%20Published%20Researcher&descAlignY=58&descSize=18&descColor=8b949e" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=MD%20Iftekhar%20Hossain&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%2FML%20Engineer%20%C2%B7%20LLM%20%26%20RAG%20Systems%20%C2%B7%20Published%20Researcher&descAlignY=55&descSize=16" />
 
 <br/>
 
@@ -16,7 +16,7 @@
 
 <img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=efti-dot&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=true" />
 
-## 🧑‍💻 About Me
+### 👨‍💻 &nbsp;About Me
 
 - 🤖 **Jr. AI Developer** at **Betopia Group LTD** — building RAG systems, AI chatbots, OCR pipelines & multimodal AI assistants in production
 - 📄 **IEEE Published Researcher** — wafer defect classification using Vision Transformers, achieving **98.63% accuracy** (STI 2025, Dhaka)
@@ -24,8 +24,6 @@
 - 🎓 BSc in Computer Science & Engineering — Ahsanullah University of Science and Technology (AUST)
 - 💬 Ask me about **LLMs, RAG Systems, LangChain, Computer Vision, and Python**
 - 📫 Reach me at **eftih31@gmail.com** or on [LinkedIn](https://www.linkedin.com/in/md-iftekhar-hossain-196ba32b9/)
-
-<br clear="right"/>
 
 ---
 
@@ -70,17 +68,6 @@
 
 ---
 
-### 📌 &nbsp;Featured Work
-
-| Project | What it does | Tech |
-|---|---|---|
-| 🏠 **NHA MobileConnect** | Live mobile app connecting homeless individuals to shelters, food & healthcare across Nevada. Led AI integration (ChatConnect — OpenAI-powered guide). | `OpenAI` `Google Places API` `Python` |
-| 🛡️ **AI Insurance Assistant** | RAG-based chatbot with FAISS vector search, document intelligence & streaming responses. | `LangChain` `OpenAI` `FAISS` `Streamlit` |
-| 🔬 **Wafer Defect Classifier** | IEEE-published deep learning model (RegionViT) — 98.63% accuracy on mixed-type semiconductor defects. | `PyTorch` `RegionViT` `Transfer Learning` |
-| 🩺 **Pneumonia Detection** | Medical image classification from chest X-rays with edge detection preprocessing. | `TensorFlow` `OpenCV` `Scikit-learn` |
-
----
-
 ### 📊 &nbsp;Stats
 
 <div align="center">
@@ -95,6 +82,6 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2d333b,50:1a1b27,100:0d1117&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 
 </div>
