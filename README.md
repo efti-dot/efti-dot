@@ -15,9 +15,9 @@
 |---|---|
 | 💼 | **Jr. AI Developer** at **Betopia Group LTD** — building production-grade RAG systems, AI chatbots, OCR pipelines & multimodal AI assistants |
 | 📄 | **IEEE Published Researcher** — wafer defect classification using Vision Transformers, achieving **98.63% accuracy** (STI 2025, Dhaka) |
-| 📱 | **Shipped a live mobile app** — [NHA MobileConnect](https://github.com/efti-dot) on App Store & Google Play, with an OpenAI-powered in-app assistant (ChatConnect) |
+| 📱 | **Shipped a live mobile app** — <b>NHA MobileConnect</b> on <a href="https://apps.apple.com/us/app/nha-mobileconnect/id6756877961">App Store</a> & <a href="https://play.google.com/store/apps/details?id=com.nha.mobile_connect&hl=en">Google Play</a>, with an OpenAI-powered in-app assistant (ChatConnect) |
 | 🎓 | BSc in Computer Science & Engineering — Ahsanullah University of Science and Technology (AUST) |
-| 💬 | Ask me about **LLMs · RAG Systems · LangChain · Computer Vision · Python** |
+| 💬 | Ask me about **LLMs · GenAI · LangChain · Computer Vision · Python** |
 
 ---
 
@@ -66,8 +66,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=efti-dot&layout=compact&theme=tokyonight&hide_border=true" width="38%" />
-&nbsp;&nbsp;
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=efti-dot&theme=tokyonight&hide_border=true" width="48%" />
 
 </div>
