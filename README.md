@@ -1,85 +1,102 @@
-<h1 align="center">Hi 👋, I'm MD Iftekhar Hossain</h1>
-<h3 align="center">AI/ML Engineer &nbsp;·&nbsp; Published Researcher &nbsp;·&nbsp; LLM & RAG Systems Builder</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/md-iftekhar-hossain-196ba32b9/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:eftih31@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/efti-dot" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=MD%20Iftekhar%20Hossain&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%2FML%20Engineer%20%C2%B7%20LLM%20%26%20RAG%20Systems%20%C2%B7%20Published%20Researcher&descAlignY=55&descSize=16" />
 
----
+<br/>
 
-## 🧑‍💻 About Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-iftekhar-hossain-196ba32b9/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eftih31@gmail.com)
+[![Portfolio](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/efti-dot)
 
-- 🤖 **Jr. AI Developer** at **Betopia Group LTD** — building RAG systems, AI chatbots, OCR pipelines & multimodal AI assistants in production
-- 📄 **IEEE Published Researcher** — wafer defect classification using Vision Transformers, achieving **98.63% accuracy** (STI 2025, Dhaka)
-- 📱 **Shipped a live mobile app** — [NHA MobileConnect](https://github.com/efti-dot) on App Store & Google Play, featuring an OpenAI-powered in-app assistant (ChatConnect)
-- 🎓 BSc in Computer Science & Engineering — Ahsanullah University of Science and Technology (AUST)
-- 💬 Ask me about **LLMs, RAG Systems, LangChain, Computer Vision, and Python**
-- 📫 Reach me at **eftih31@gmail.com** or on [LinkedIn](https://www.linkedin.com/in/md-iftekhar-hossain-196ba32b9/)
+<br/>
+
+</div>
 
 ---
 
-## 🏆 Career Highlights
+<img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=efti-dot&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=true" />
 
-| | |
-|---|---|
-| 📱 **Live Mobile App** | [NHA MobileConnect](https://github.com/efti-dot) — AI-powered community resource finder for Nevada Homeless Alliance · Live on **App Store & Google Play** |
-| 📄 **IEEE Publication** | *Mixed-Type Wafer Map Defect Classification Using Regional-to-Local Attention* · STI 2025 · **98.63% accuracy** |
-| 📝 **Manuscript in Progress** | *Ensemble Hybrid MobileNet + VGG19 for Lung Nodule Classification* |
-| 💼 **Industry Role** | Jr. AI Developer @ Betopia Group LTD · Full-time · June 2025 – Present |
+### 👨‍💻 &nbsp;About Me
 
----
+```python
+class IftekharHossain:
+    role     = "Jr. AI Developer @ Betopia Group LTD"
+    focus    = ["LLM Apps", "RAG Systems", "Computer Vision"]
+    research = "IEEE Published · STI 2025"
+    shipped  = "Live App on App Store & Google Play"
+    seeking  = "AI/ML Engineering Opportunities"
+```
 
-## 🛠️ Technical Skills
-
-### AI / Machine Learning / Deep Learning
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-
-### LLM & Generative AI
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Claude](https://img.shields.io/badge/Anthropic_Claude-D97757?style=flat-square&logoColor=white)
-![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
-
-### Backend, Databases & Deployment
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-Vector_DB-blue?style=flat-square)
-
-### Tools & Environment
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black)
+<br clear="right"/>
 
 ---
 
-## 📊 GitHub Stats
+### 🚀 &nbsp;What I Work With
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=efti-dot&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=efti-dot&layout=compact&theme=tokyonight&hide_border=true" width="47%" />
-</p>
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+</div>
 
 ---
 
-<p align="center">
-  <i>Open to AI/ML engineering opportunities. Feel free to connect on <a href="https://www.linkedin.com/in/md-iftekhar-hossain-196ba32b9/">LinkedIn</a> or reach out at eftih31@gmail.com</i>
-</p>
+### 🏆 &nbsp;Highlights
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="33%">
+      <h3>📱</h3>
+      <b>Live on App Store & Play Store</b><br/>
+      <sub>NHA MobileConnect — AI-powered community resource finder with OpenAI ChatConnect integration</sub>
+    </td>
+    <td align="center" width="33%">
+      <h3>📄</h3>
+      <b>IEEE Published · STI 2025</b><br/>
+      <sub>Wafer defect classification using RegionViT — <b>98.63% accuracy</b> across 38 defect categories</sub>
+    </td>
+    <td align="center" width="33%">
+      <h3>🤖</h3>
+      <b>Production AI Systems</b><br/>
+      <sub>RAG pipelines, OCR automation, multimodal AI assistants deployed in real business environments</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📌 &nbsp;Featured Work
+
+| Project | What it does | Tech |
+|---|---|---|
+| 🏠 **NHA MobileConnect** | Live mobile app connecting homeless individuals to shelters, food & healthcare across Nevada. Led AI integration (ChatConnect — OpenAI-powered guide). | `OpenAI` `Google Places API` `Python` |
+| 🛡️ **AI Insurance Assistant** | RAG-based chatbot with FAISS vector search, document intelligence & streaming responses. | `LangChain` `OpenAI` `FAISS` `Streamlit` |
+| 🔬 **Wafer Defect Classifier** | IEEE-published deep learning model (RegionViT) — 98.63% accuracy on mixed-type semiconductor defects. | `PyTorch` `RegionViT` `Transfer Learning` |
+| 🩺 **Pneumonia Detection** | Medical image classification from chest X-rays with edge detection preprocessing. | `TensorFlow` `OpenCV` `Scikit-learn` |
+
+---
+
+### 📊 &nbsp;Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=efti-dot&layout=compact&theme=tokyonight&hide_border=true" width="38%" />
+&nbsp;&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=efti-dot&theme=tokyonight&hide_border=true" width="48%" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+
+</div>
