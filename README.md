@@ -72,17 +72,6 @@ class IftekharHossain:
 
 ---
 
-### 📌 &nbsp;Featured Work
-
-| Project | What it does | Tech |
-|---|---|---|
-| 🏠 **NHA MobileConnect** | Live mobile app connecting homeless individuals to shelters, food & healthcare across Nevada. Led AI integration (ChatConnect — OpenAI-powered guide). | `OpenAI` `Google Places API` `Python` |
-| 🛡️ **AI Insurance Assistant** | RAG-based chatbot with FAISS vector search, document intelligence & streaming responses. | `LangChain` `OpenAI` `FAISS` `Streamlit` |
-| 🔬 **Wafer Defect Classifier** | IEEE-published deep learning model (RegionViT) — 98.63% accuracy on mixed-type semiconductor defects. | `PyTorch` `RegionViT` `Transfer Learning` |
-| 🩺 **Pneumonia Detection** | Medical image classification from chest X-rays with edge detection preprocessing. | `TensorFlow` `OpenCV` `Scikit-learn` |
-
----
-
 ### 📊 &nbsp;Stats
 
 <div align="center">
