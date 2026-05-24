@@ -37,52 +37,6 @@
 
 ---
 
-## 🔬 Featured Projects
-
-### 📱 [NHA MobileConnect](https://github.com/efti-dot)
-> AI-powered mobile app for the Nevada Homeless Alliance — helps people in need locate nearby shelters, food pantries, and healthcare across Nevada.
-
-- **ChatConnect**: Built and integrated an OpenAI-powered in-app digital guide for instant access to community support information
-- **Google Places API** for real-time, location-aware resource discovery
-- Live on **App Store** and **Google Play Store**
-- `Python` · `OpenAI API` · `Google Places API` · `NumPy`
-
----
-
-### 🤖 [AI Insurance Assistant Web App](https://github.com/efti-dot)
-> Streamlit-based AI chatbot with full RAG pipeline, FAISS vector search, and document intelligence.
-
-- GPT-powered content extraction, OpenAI embeddings, streaming responses, and conversation memory
-- Supports General and Premium modes with document upload capability
-- `Python` · `Streamlit` · `OpenAI API` · `FAISS` · `LangChain` · `PyMuPDF`
-
----
-
-### 🔬 [Wafer Defect Classification — IEEE Published](https://github.com/efti-dot)
-> RegionViT-based mixed-type wafer defect classifier achieving **98.63% accuracy** across 38 defect categories.
-
-- Applied Regional-to-Local Attention mechanism to jointly model fine-grained local and global wafer map features
-- Outperforms prior state-of-the-art (MSF-Trans, DC-Net) across all defect complexity levels
-- `PyTorch` · `RegionViT` · `Transfer Learning` · `Computer Vision`
-
----
-
-### 🩺 [Pneumonia Detection from Chest X-Rays](https://github.com/efti-dot)
-> Medical image classification pipeline using Sobel edge detection and Gaussian blurring preprocessing techniques.
-
-- Benchmarked Logistic Regression, Random Forest, and Neural Network models with accuracy, classification reports, and confusion matrices
-- `Python` · `OpenCV` · `Scikit-learn` · `TensorFlow`
-
----
-
-### 🌦️ [Weather Forecasting — Deep Learning](https://github.com/efti-dot)
-> Time-series temperature forecasting for Oslo using deep learning, evaluated across multiple architectures.
-
-- Built and compared Dense Neural Network, LSTM, and CNN models; evaluated using MAE and MSE
-- `Python` · `Keras` · `Pandas` · `NumPy` · `Matplotlib`
-
----
-
 ## 🛠️ Technical Skills
 
 ### AI / Machine Learning / Deep Learning
@@ -123,23 +77,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=efti-dot&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="47%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=efti-dot&layout=compact&theme=tokyonight&hide_border=true" width="47%" />
 </p>
-
----
-
-## 📄 Publications
-
-**[IEEE STI 2025]** &nbsp; *Mixed-Type Wafer Map Defect Classification Using Regional-to-Local Attention*
-> Presented at the IEEE 7th International Conference on Sustainable Technologies for Industry 5.0, Dhaka, Bangladesh. Proposed a RegionViT-based model achieving **98.63% accuracy** on 38 mixed-type wafer defect categories, surpassing prior state-of-the-art methods.
-
-**[In Progress]** &nbsp; *An Ensemble Approach Combining Hybrid MobileNet and VGG19 for Enhanced Lung Nodule Classification*
-> Manuscript in preparation — ensemble deep learning approach for medical image classification.
-
----
-
-## 📜 Certifications
-
-- 🧠 Generative AI with LangChain and HuggingFace — *Udemy*
-- ⚙️ FPGA Acceleration for Machine Learning Applications
 
 ---
 
