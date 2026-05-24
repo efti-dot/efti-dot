@@ -18,16 +18,12 @@
 
 ### 👨‍💻 &nbsp;About Me
 
-```python
-class IftekharHossain:
-    role     = "Jr. AI Developer @ Betopia Group LTD"
-    focus    = ["LLM Apps", "RAG Systems", "Computer Vision"]
-    research = "IEEE Published · STI 2025"
-    shipped  = "Live App on App Store & Google Play"
-    seeking  = "AI/ML Engineering Opportunities"
-```
-
-<br clear="right"/>
+- 🤖 **Jr. AI Developer** at **Betopia Group LTD** — building RAG systems, AI chatbots, OCR pipelines & multimodal AI assistants in production
+- 📄 **IEEE Published Researcher** — wafer defect classification using Vision Transformers, achieving **98.63% accuracy** (STI 2025, Dhaka)
+- 📱 **Shipped a live mobile app** — [NHA MobileConnect](https://github.com/efti-dot) on App Store & Google Play, featuring an OpenAI-powered in-app assistant (ChatConnect)
+- 🎓 BSc in Computer Science & Engineering — Ahsanullah University of Science and Technology (AUST)
+- 💬 Ask me about **LLMs, RAG Systems, LangChain, Computer Vision, and Python**
+- 📫 Reach me at **eftih31@gmail.com** or on [LinkedIn](https://www.linkedin.com/in/md-iftekhar-hossain-196ba32b9/)
 
 ---
 
