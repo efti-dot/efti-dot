@@ -7,16 +7,21 @@
 
 ---
 
-<img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=efti-dot&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=true" />
+## 🧑‍💻 About Me
 
-### 👨‍💻 &nbsp;About Me
+> Passionate AI/ML Engineer turning cutting-edge research into real-world products — from IEEE-published deep learning models to live mobile apps used by people in need.
 
-- 🤖 **Jr. AI Developer** at **Betopia Group LTD** — building RAG systems, AI chatbots, OCR pipelines & multimodal AI assistants in production
-- 📄 **IEEE Published Researcher** — wafer defect classification using Vision Transformers, achieving **98.63% accuracy** (STI 2025, Dhaka)
-- 📱 **Shipped a live mobile app** — [NHA MobileConnect](https://github.com/efti-dot) on App Store & Google Play, featuring an OpenAI-powered in-app assistant (ChatConnect)
-- 🎓 BSc in Computer Science & Engineering — Ahsanullah University of Science and Technology (AUST)
-- 💬 Ask me about **LLMs, RAG Systems, LangChain, Computer Vision, and Python**
-- 📫 Reach me at **eftih31@gmail.com** or on [LinkedIn](https://www.linkedin.com/in/md-iftekhar-hossain-196ba32b9/)
+| | |
+|---|---|
+| 💼 | **Jr. AI Developer** at **Betopia Group LTD** — building production-grade RAG systems, AI chatbots, OCR pipelines & multimodal AI assistants |
+| 📄 | **IEEE Published Researcher** — wafer defect classification using Vision Transformers, achieving **98.63% accuracy** (STI 2025, Dhaka) |
+| 📱 | **Shipped a live mobile app** — [NHA MobileConnect](https://github.com/efti-dot) on App Store & Google Play, with an OpenAI-powered in-app assistant (ChatConnect) |
+| 🎓 | BSc in Computer Science & Engineering — Ahsanullah University of Science and Technology (AUST) |
+| 💬 | Ask me about **LLMs · RAG Systems · LangChain · Computer Vision · Python** |
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=efti-dot&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+</p>
 
 ---
 
