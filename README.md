@@ -80,8 +80,8 @@
 
 ---
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
-
-</div>
+<p align="center">
+<svg width="100%" height="60" viewBox="0 0 1200 60" xmlns="http://www.w3.org/2000/svg">
+  <path d="M0,30 C300,60 900,0 1200,30 L1200,60 L0,60 Z" fill="#1a1b27"/>
+</svg>
+</p>
