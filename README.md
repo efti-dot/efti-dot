@@ -13,7 +13,7 @@
 
 | | |
 |---|---|
-| 💼 | **Jr. AI Developer** at **Betopia Group LTD** — building production-grade RAG systems, AI chatbots, OCR pipelines & multimodal AI assistants |
+| 💼 | **Jr. AI Developer** at **Betopia Group LTD** *(June 2025 – May 2026)* — built production-grade RAG systems, AI chatbots, OCR pipelines & multimodal AI assistants |
 | 📄 | **IEEE Published Researcher** — wafer defect classification using Vision Transformers, achieving **98.63% accuracy** (STI 2025, Dhaka) |
 | 📱 | **Shipped a live mobile app** — <b>NHA MobileConnect</b> on <a href="https://apps.apple.com/us/app/nha-mobileconnect/id6756877961">App Store</a> & <a href="https://play.google.com/store/apps/details?id=com.nha.mobile_connect&hl=en">Google Play</a>, with an OpenAI-powered in-app assistant (ChatConnect) |
 | 🎓 | BSc in Computer Science & Engineering — Ahsanullah University of Science and Technology (AUST) |
